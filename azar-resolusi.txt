@@ -4,4 +4,5 @@ Azar Resolusi
   - effective code
   - use framework
   - web component
-  
+- Memposting hasil dari front end ke dalam web portofolio
+
