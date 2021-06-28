@@ -1,0 +1,7 @@
+Azar Resolusi 
+- Memperdalam Front End
+  - clean code
+  - effective code
+  - use framework
+  - web component
+  
